@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Định dạng nền của nút bấm -->
+    <solid android:color="#00FF00" />
+    <!-- Các thuộc tính khác như bo góc, đường viền, ... -->
+</shape>

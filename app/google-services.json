@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "750709224574",
+    "project_id": "appbanhang-cf9bf",
+    "storage_bucket": "appbanhang-cf9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750709224574:android:b563dbd307ecada297942f",
+        "android_client_info": {
+          "package_name": "com.Users.beefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750709224574-pdvv34v6l7iij6ab9ed2da80n6lmq0kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqm-v66N7oCWdaspLmLMwVTFlnlFNHeWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750709224574-pdvv34v6l7iij6ab9ed2da80n6lmq0kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750709224574:android:75e06c05312d97f997942f",
+        "android_client_info": {
+          "package_name": "com.example.beefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750709224574-licjsq14icjuvr79518t4v1t22m67kor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beefood",
+            "certificate_hash": "1feca3ea927393e95ff5271338dcddd0255eb8d6"
+          }
+        },
+        {
+          "client_id": "750709224574-pdvv34v6l7iij6ab9ed2da80n6lmq0kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqm-v66N7oCWdaspLmLMwVTFlnlFNHeWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750709224574-pdvv34v6l7iij6ab9ed2da80n6lmq0kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750709224574:android:370ddefd44f61cf497942f",
+        "android_client_info": {
+          "package_name": "com.example.beefoodUser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750709224574-lq4nrs1khqp07l4e3i5rid27k0lug9cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beefoodUser",
+            "certificate_hash": "1feca3ea927393e95ff5271338dcddd0255eb8d6"
+          }
+        },
+        {
+          "client_id": "750709224574-pdvv34v6l7iij6ab9ed2da80n6lmq0kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqm-v66N7oCWdaspLmLMwVTFlnlFNHeWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750709224574-pdvv34v6l7iij6ab9ed2da80n6lmq0kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

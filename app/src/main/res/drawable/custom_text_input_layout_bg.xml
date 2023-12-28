@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EFCDCD" /> <!-- Màu nền của TextInputLayout -->
+    <corners android:radius="8dp" /> <!-- Bo góc cho TextInputLayout -->
+    <stroke
+        android:color="#ffff"
+        android:width="10dp" /> <!-- Viền TextInputLayout -->
+</shape>
